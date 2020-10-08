@@ -88,10 +88,14 @@ p {
 }
 
 #testimonials {
-  padding: 7% 15%;
+
   text-align: center;
   background-color: #ef8172;
   color: #fff;
+}
+
+.carousel-item {
+  padding: 7% 15%;
 }
 
 .testimonial-image {
@@ -109,4 +113,17 @@ p {
 #press img {
   width: 10%;
   margin: 201px 20px 15px;
+}
+/* 
+.card {
+  width: 50%;
+} */
+
+#pricing {
+  padding: 100px;
+}
+
+.pricing-column {
+  padding: 20px 10px;
+  text-align: center;
 }
